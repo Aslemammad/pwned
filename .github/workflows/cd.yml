@@ -40,3 +40,4 @@ jobs:
 
       - name: ⚡ pkg.pr.new
         run: npx pkg-pr-new publish --compact
+
